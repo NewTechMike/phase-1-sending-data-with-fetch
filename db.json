@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +28,220 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 15
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 16
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 17
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 18
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 19
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 20
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 21
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 22
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 23
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 24
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 25
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 26
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 27
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 28
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 29
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 30
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 31
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 32
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 33
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 34
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 35
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 36
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 37
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 38
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 39
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 40
+    },
+    {
+      "name": "name",
+      "email": "email",
+      "id": 41
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 42
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 43
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 44
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 45
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 46
+    },
+    {
+      "name": "mike",
+      "email": "xero5k@yahoo.com",
+      "id": 47
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
